@@ -25,7 +25,7 @@ Basic Facts
   * "Problem Solving with Algorithms and Data Structures Using Python" - Bradley N. Miller & David L. Ranum, 2nd edition
   * Unofficial version of the Textbook: <https://runestone.academy/runestone/books/published/pythonds/index.html>
 
-* Python review and resources:
+* Optional Python review and resources for reference:
   * _Automate the Boring Stuff with Python_ By Al Sweigart. <https://automatetheboringstuff.com>
   * Visualize your code using Python Tutor: <https://pythontutor.com/render.html#mode=display>
 
@@ -114,6 +114,8 @@ Your course grade will be determined as follows:
 
 Feel free to double-check that the final exam date and time are correct:
 <https://registrar.sa.ucsb.edu/calendars/calendars-deadlines/final-examinations/winter-final-examination-schedule>
+
+Add and Verify that the date and time are correct on the Calendar!
 
 
 Note that A+ is given at the discretion of the instructor for outstanding performance and participation that go beyond the regular class expectations.
