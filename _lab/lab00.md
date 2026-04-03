@@ -4,7 +4,7 @@ num: lab00
 ready: true
 desc: "Python Review (strings, dictionaries, loops)"
 assigned: 2026-04-02 11:00:00.00-7
-due: 2026-04-09 23:59:59.59-7
+due: 2026-04-07 23:59:59.59-7
 ---
 
 # Introduction
