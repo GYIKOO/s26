@@ -44,4 +44,4 @@ We can also help by brainstorming with you
 
 Check the calendar and the forum to make sure that the office hours are taking place.
 
-<iframe src="https://calendar.google.com/calendar/embed?height=800&wkst=1&ctz=America%2FLos_Angeles&showPrint=0&mode=WEEK&title=CS9%20S25%20Office%20Hours&src=Y182NzlkNjg5ZWVlYTYxMzNmZTQ4OTMyM2JkNzJlM2MzN2EzMzI5OGUyNzMxODE3Yjc2YTk1ZGMxOTExZTcxY2EzQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&src=ZW4udXNhI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&color=%233F51B5&color=%230B8043" style="border:solid 1px #777" width="800" height="1000" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=America%2FLos_Angeles&showPrint=0&src=Y182NzlkNjg5ZWVlYTYxMzNmZTQ4OTMyM2JkNzJlM2MzN2EzMzI5OGUyNzMxODE3Yjc2YTk1ZGMxOTExZTcxY2EzQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&color=%233f51b5" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
