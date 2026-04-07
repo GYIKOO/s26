@@ -34,7 +34,7 @@ cal_dates: >
   [                                                                            
     {"label":"S26 1st day of instruction", "date":"2026-03-30" },
     {"label":"S26 deadline to drop courses w/o W", "date":"2026-04-24" },
-    {"label":"S26 CS 9 MIDTERM (3:30pm - 4:45pm)", "date":"2026-04-30" }, 
+    {"label":"S26 CS 9 MIDTERM (3:30pm - 4:45pm)", "date":"2026-04-29" }, 
     {"label":"Holiday: Memorial Day", "date":"2026-05-25" },
     {"label":"S26 instruction ends", "date":"2026-06-05" },
     {"label":"S26 CS 9 FINAL (4:00pm - 7:00pm)", "date":"2026-06-10" }, 
