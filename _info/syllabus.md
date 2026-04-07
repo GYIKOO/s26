@@ -104,13 +104,13 @@ Letter grades will be determined by the end of the course after all labs, homewo
 
 Your course grade will be determined as follows:
 
-| Grade Item                                    | Percentage of Final Grade |
-|-----------------------------------------------|---------------------------|
-| Academic Integrity Contract                   | 1 %                      |
-| Homeworks                                     | 9 %                      |
-| Labs                                          | 20 %                      |
-| Midterm (Week 5, Wed 04/29 in class) 3:30pm - 4:45pm   | 35 %                      |
-| Final (Wed 06/10 in class), 4pm - 7pm             | 35 %                      |
+| Grade Item                                      | Percentage of Final Grade |
+|-------------------------------------------------|---------------------------|
+| Academic Integrity Contract                     | 1%                        |
+| Homeworks                                       | 9%                        |
+| Labs                                            | 20%                       |
+| Midterm (Week 5, Wed 04/29 in class, 3:30pm - 4:45pm) | 35%              |
+| Final (Wed 06/10 in class, 4pm - 7pm)          | 35%                       |
 <!-- DOUBLE_CHECK THAT THE MIDTERM IS ON THE DAY OF THE WEEK that the class meets! -->
 
 Feel free to double-check that the final exam date and time are correct:
