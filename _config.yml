@@ -30,6 +30,7 @@ extra_exam_week: true
 # TODO: make sure that the exam dates are correct on the syllabus as well!
 #  https://registrar.sa.ucsb.edu/calendars/final-exams
 
+### DOUBLE_CHECK THAT THE MIDTERM IS ON THE DAY OF THE WEEK that the class meets
 cal_dates: >
   [                                                                            
     {"label":"S26 1st day of instruction", "date":"2026-03-30" },
