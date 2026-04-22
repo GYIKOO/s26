@@ -111,12 +111,13 @@ Your course grade will be determined as follows:
 | Labs                                            | 20%                       |
 | Midterm (Week 5, Wed 04/29 in class, 3:30pm - 4:45pm) | 35%              |
 | Final (Wed 06/10 in class, 4pm - 7pm)          | 35%                       |
+
 <!-- DOUBLE_CHECK THAT THE MIDTERM IS ON THE DAY OF THE WEEK that the class meets! -->
 
 Feel free to double-check that the final exam date and time are correct:
-<https://registrar.sa.ucsb.edu/calendars/calendars-deadlines/final-examinations/winter-final-examination-schedule>
+<https://registrar.sa.ucsb.edu/calendars/calendars-devdlines/final-examinations/winter-final-examination-schedule>
 
-Add and Verify that the date and time are correct on the Calendar!
+Add and werify that the date and time are correct on the Calendar!
 
 
 Note that A+ is given at the discretion of the instructor for outstanding performance and participation that go beyond the regular class expectations.
@@ -199,6 +200,6 @@ Standard Disclaimer
 
 This syllabus is as accurate as possible but is subject to change at the instructor's discretion, within the bounds of UC policy.
 
-_Last Updated:_ 
+_Last Major Update:_ 
 * Mar 30 - initial live version of the syllabus is live
  
