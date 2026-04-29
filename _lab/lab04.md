@@ -338,7 +338,7 @@ testFile.py
 ^C
 
 !!!!!!!!!!!!!!!!!!!!!!!! KeyboardInterrupt !!!!!!!!!!!!!!!!!!!!!!!!
-/Users/sunrise/Documents/cs9-s25/lab04/332265328/Stack.py:6: KeyboardInterrupt
+/Users/sunrise/Documents/cs9-s26/lab04/332265328/Stack.py:6: KeyboardInterrupt
 (to show a full traceback on KeyboardInterrupt use --full-trace)
 ===================== no tests ran in 18.89s =====================
 ```
