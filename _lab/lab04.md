@@ -17,15 +17,20 @@ In this lab, you'll practice:
 
 Note: It is important that you start this lab early so you can utilize our office hours to seek assistance / ask clarifying questions during the week before the deadline if needed!
 
-More context on this specific problem is covered in the book (See **Recursion Chapter 4.6: Exploring a Maze**, or [5.11 in the online book](https://runestone.academy/ns/books/published/pythonds/Recursion/ExploringaMaze.html)). The book explains how this problem can be solved recursively, but in this lab we will **_not_ use recursion** - rather we will do what recursion does for us and **manually** keep track of positions visited using our implementation of a Stack data structure.
+## Background Resources
+
+More context on this specific problem is covered in the book (See **Recursion Chapter 4.6: Exploring a Maze**, or [5.11 in the online book](https://runestone.academy/ns/books/published/pythonds/Recursion/ExploringaMaze.html)). 
+The book explains how this problem can be solved recursively, but in this lab we will **_not_ use recursion** - rather we will do what recursion does for us and **manually** keep track of positions visited using our implementation of a Stack data structure.
+Typically, in real-world situations, if a program can be solved iteratively, such solutions are preferred over a recursive approach due to the space tradeoff.
 
 
-If you'd like an additional walkthrough, here's a 15-minute handwritten video explanation of how to approach solving a maze using the logic from this lab:
+Watch this 15-minute handwritten video explanation of how to approach solving a maze using the logic from this lab:
 <https://www.loom.com/share/b3323f2125d447dcbc7d18b96e45dda4?sid=092fe2c5-cf90-48fa-ae40-ead8c12c86c7>
 
+Read the instructions from start to end first, before starting to code anything.
 
 
-## Network Path Discovery: Multiple Real-World Applications
+# Network Path Discovery: Multiple Real-World Applications
 
 ### Traditional Networking Context
 In computer networks, routers need to find paths from source to destination while navigating around offline nodes, congested links, or other obstacles. When traditional routing tables fail or need to be rebuilt, algorithms must discover alternate paths to maintain connectivity.
@@ -42,9 +47,9 @@ This same path-finding problem appears in cybersecurity contexts:
 Both scenarios involve a problem that can be modeled similarly to solving a maze, where:
 - Empty spaces (`' '`) represent accessible network nodes
 - Walls (`'+'`) represent inaccessible systems, firewalls, or offline nodes
-- The goal (`'G'`) represents the destination server or high-value target
+- The goal (`'G'`) represents the destination server or a high-value target
 
-Your task is to implement a "network path discovery simulator" that determines if there's a path from a starting node to a destination, while documenting the hop count along the traversal path.
+Your task is to implement a "network path discovery simulator" that determines if there's a path from a starting node to a destination, while documenting the hop (step) count along the traversal path.
 
 ## Representing a Network
 We'll represent a network as an `n x m` 2D List, similar to how we would represent a maze:
@@ -90,7 +95,7 @@ If we do reach a part of the network from which we cannot move anywhere, a Stack
 - You may traverse the network horizontally and vertically (not diagonally).
 
 You must implement your traversal in following way:
- - When reaching a certain node, you must check and move **counterclockwise** in the following order: **North, then West, then South, then East**
+ - When reaching a certain node, you must check and move **counterclockwise** in the following order: **North, then West, then South, then East** (up, left, down, right)
  - You will always be given a starting coordinate. This will be the first step taken by the function (marked with a `1`).
  - You will traverse the network until you reach the target (`'G'`). Once you reach the target, your algorithm should stop (no need to keep traversing the network)
 	* **Note: in the edge case where the current position is next to the goal, your function should always attempt to move into the space _before_ it checks to see if the position stepped into is the goal.**
@@ -117,7 +122,7 @@ Using the example network above with a starting position at `network[4][4]`, aft
 This format is great for writing the assertion but
 not too easy on the eyes, so we're providing a helper function below that you can use.
 
-Please use it to debug your code and print out the state of the network in a more user-friendly way:
+Please **use it to debug your code** and print out the state of the network in a more user-friendly way:
 
 ```
 def print_nodes(network):
@@ -226,7 +231,7 @@ By implementing this stack-based traversal algorithm, you're learning a fundamen
 ## Submission
 Once you're done with writing your class/function definitions and tests, submit your files to the Lab04 assignment on Gradescope. There will be various unit tests Gradescope to ensure your code is working correctly based on the specifications given in this lab.
 
-emove any print statements in your submission as they may interfere with the autograder.
+**Remove any print statements in your submission as they may interfere with the autograder.**
 
 
 ---
